@@ -1,3 +1,5 @@
 ## Video de apresentação do projeto
 
-<embed src="./images/video.mp4" autostart="false" width="144" height="100" />
+<video width="320" height="240" controls>
+   <source src="/images/video.mp4" type="video/mp4">
+</video>
